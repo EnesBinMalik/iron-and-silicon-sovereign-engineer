@@ -1,0 +1,6 @@
+{
+  "name": "Iron & Silicon: The Sovereign Engineer",
+  "description": "Enes Öztürk özel yapımı 3D siber-endüstriyel mühendislik aksiyonu, mekanik parçalama fiziği ve gerçek zamanlı donanım onarım deneyimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
